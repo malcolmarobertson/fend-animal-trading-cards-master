@@ -1,0 +1,19 @@
+.main, .animal-info{
+    border-color: darkgray;
+    border-width: 3px;
+    border-style: solid;
+    padding: 10px;
+}
+
+.fact {
+    font-style: italic;    
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-style: italic;    
+    font-weight: bold;
+}
