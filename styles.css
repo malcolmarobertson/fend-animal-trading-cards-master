@@ -1,19 +1,21 @@
-.main, .animal-info{
+.main, 
+.animal-info {
     border-color: darkgray;
     border-width: 3px;
     border-style: solid;
     padding: 10px;
+    max-width: 330px;
 }
 
 .fact {
     font-style: italic;    
 }
 
-ul {
+.science {
     list-style-type: none;
 }
 
-li {
+.science-item {
     font-style: italic;    
     font-weight: bold;
 }
